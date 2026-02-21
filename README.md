@@ -45,6 +45,7 @@ Automate and simplify medical insurance claim submission while generating struct
    
    pip install streamlit
 5. Run:
+   .\venv\Scripts\activate
    streamlit run app.py
 
 ## 🔐 Environment Variable
@@ -55,3 +56,4 @@ GEMINI_API_KEY=your_api_key_here
 ## 👩‍💻 Team
 
 ParallelX
+
